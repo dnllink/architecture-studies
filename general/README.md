@@ -7,3 +7,7 @@ Rest:
 
 Dealing with exceptions in streams(Java 8):
 - https://dzone.com/articles/exception-handling-in-java-streams
+
+Big O Notation o(n):
+- https://dzone.com/articles/learning-big-o-notation-with-on-complexity
+- https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/
