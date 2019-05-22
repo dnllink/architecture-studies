@@ -4,3 +4,6 @@ About the CAP Theorem:
 
 Rest:
 - https://restfulapi.net/resource-naming/
+
+Dealing with exceptions in streams(Java 8):
+- https://dzone.com/articles/exception-handling-in-java-streams
